@@ -116,7 +116,7 @@ redirect_from:
 - **方一羽**, 赵紫宏, 黄雯雯, 付红昕. Searching for Patterns in the For bidden City —AIGC interactive exploration experience based on the window lattice of the Forbidden City[C]. The first Global Alliance of Educational Leaders and Department Heads. 2024.
 
 #### 专著
-- 徐腾飞. **方一羽**, 林菡, 卢言欢, 安瑷雯. 王莹 中外美术简史.清华大学出版社 2025（三校）
+- 徐腾飞, **方一羽**, 林菡, 卢言欢, 安瑷雯. 王莹 中外美术简史.清华大学出版社 2025（三校）
 
 #### 专利
 - 酒瓶外包装 [P]:ZL 2022 3 0128097.X. 外观设计专利
