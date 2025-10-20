@@ -55,7 +55,21 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地
+
+- 用户研究与产品定义（读物阶段）：通过在北京、珠海等地组织12场深度访谈与焦点小组，收集200+份小学美术课案例，精准洞察儿童对互动性、视觉探索的强烈偏好。据此创建用户画像与旅程图，指导产品方向。
+  - 产品决策：研究发现儿童在互动性、视觉探索及与自然关联上有更强偏好性，成功说服团队将植物、动物纹样优先设立为读物核心亮点，并参与设计了专属IP动物形象以提升亲和力。
+  - 框架搭建：基于2022新课标拆解美育目标，创新性提炼出“结构-色彩-纹样”三维课程框架，开发奠定了课程理论基础。
+- 课程开发与教学落地（课程阶段）
+  - 内容转化：将读物内容转化为可执行的课程体系，主导设计以故宫藻井纹样为核心的课程（含结构、色彩、纹样三模块）。
+  - 教具创新：开发配套实体教具包（含藻井模型、纹样设计卡等6类工具），通过实践应用深化文化认知与审美创造。
+  - 跨地实践：推动课程在珠海（城市小学）、河南（乡村小学）等不同地域的学校成功落地，验证了课程体系的普适性与适应性。
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
