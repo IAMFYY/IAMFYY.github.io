@@ -52,7 +52,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.jpg' alt="sym" width="100%"><img src='../images/故宫.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地
