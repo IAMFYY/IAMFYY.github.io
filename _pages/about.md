@@ -27,19 +27,31 @@ redirect_from:
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 2024-2025学年 总成绩年级第一名. 
 
-# 📝 Experience
+# 💻 Internships
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">实习生 北京（2025.5-7）</div><img src='../images/清华.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-清华大学计算机系人机交互实验室 儿童数学认知发展分析系统
+## 清华大学计算机系人机交互实验室 儿童数学认知发展分析系统
 
 - **研究内容**：本研究围绕一年级前后的数学知识，已完成实验框架设计与平台开发，进行了儿童多模态回答收集预实验，完成了自动化分析系统的pipeline开发，以及面向老师的界面开发。主要负责形成性研究、专家访谈以及文献调研与分析。
 - **情境**：参与研发一套基于多模态数据的儿童数学能力形成性评估系统，初期面临如何将数学数感发展认知理论转化为有效评估指标的关键挑战。
 - **任务**：负责通过系统的前期研究、专家访谈，定义核心评估维度和用户体验需求，为系统设计提供科学输入。
 - **行动**：主导10余场半结构化专家访谈（对象为小学一线数学教师、学生、数学教育领域专家等），运用主题分析法对访谈内容进行编码，提炼出“即时反馈”与“认知轨迹可视化”等核心需求。基于研究发现，参与构建“数感评估-行为反馈-路径干预”的评估平台功能。
 - **结果**：将数感相关学术理论和真实的儿童数学发展需求以及生成式人工智能如何进入教学课堂的挑战，转化为清晰的产品需求，构建的研究框架为后续实验设计与开发奠定了基础，相关成果已整理成文拟投2025CHI。
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">实习生（2024.11-2025.6）</div><img src='../images/北师大1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 北师大艺术与科技实验室 你深知我的历程：运用大语言模型赋能自我关怀写作干预中的个性化理解与共情
+
+- 研究内容：主导探索大语言模型（LLM）如何增强自我关怀写作体验的混合方法用户研究。利用大语言模型（LLMs）来增强或辅助传统的自我关怀写作练习。LLMs 因其强大的自然语言处理和上下文理解能力，能够在这个过程中提供更个性化（Personalized）和富有共情（Empathy）的互动与支持。
+- 研究方法设计：研究采用混合方法研究设计，结合定量和定性方法，全面评估LLM增强的自我同情写作干预的效果和体验。
+- 系统开发：基于现有LLM技术(如GPT-4)开发写作干预平台，整合两个研究思路的核心功能。
+- 用户研究：招募参与者进行为期4-8周的写作干预研究，定量评估心理健康指标的变化，定性收集用户体验反馈。
+- 效果评估：综合分析定量与定性数据，评估LLM干预对用户体验的实际效果，比较不同实验条件的差异，为AI心理辅助产品设计提供关键洞察。
 </div>
 </div>
 
@@ -57,5 +69,3 @@ redirect_from:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
