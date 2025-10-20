@@ -6,17 +6,15 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "实习经历"
+    url: "/#-实习经历"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "教育背景"
+    url: "/#-教育背景"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "荣誉"
+    url: "/#-荣誉"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "学术成果"
+    url: "/#-学术成果"
 
-  - title: "Internships"
-    url: "/#-internships"
