@@ -61,12 +61,12 @@ redirect_from:
 ## 故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地
 
 - **用户研究与产品定义（读物阶段）**：通过在北京、珠海等地组织12场深度访谈与焦点小组，收集200+份小学美术课案例，精准洞察儿童对互动性、视觉探索的强烈偏好。据此创建用户画像与旅程图，指导产品方向。
-  - 产品决策：研究发现儿童在互动性、视觉探索及与自然关联上有更强偏好性，成功说服团队将植物、动物纹样优先设立为读物核心亮点，并参与设计了专属IP动物形象以提升亲和力。
-  - 框架搭建：基于2022新课标拆解美育目标，创新性提炼出“结构-色彩-纹样”三维课程框架，开发奠定了课程理论基础。
+  - **产品决策**：研究发现儿童在互动性、视觉探索及与自然关联上有更强偏好性，成功说服团队将植物、动物纹样优先设立为读物核心亮点，并参与设计了专属IP动物形象以提升亲和力。
+  - **框架搭建**：基于2022新课标拆解美育目标，创新性提炼出“结构-色彩-纹样”三维课程框架，开发奠定了课程理论基础。
 - **课程开发与教学落地（课程阶段）**
-  - 内容转化：将读物内容转化为可执行的课程体系，主导设计以故宫藻井纹样为核心的课程（含结构、色彩、纹样三模块）。
-  - 教具创新：开发配套实体教具包（含藻井模型、纹样设计卡等6类工具），通过实践应用深化文化认知与审美创造。
-  - 跨地实践：推动课程在珠海（城市小学）、河南（乡村小学）等不同地域的学校成功落地，验证了课程体系的普适性与适应性。
+  - **内容转化**：将读物内容转化为可执行的课程体系，主导设计以故宫藻井纹样为核心的课程（含结构、色彩、纹样三模块）。
+  - **教具创新**：开发配套实体教具包（含藻井模型、纹样设计卡等6类工具），通过实践应用深化文化认知与审美创造。
+  - **跨地实践**：推动课程在珠海（城市小学）、河南（乡村小学）等不同地域的学校成功落地，验证了课程体系的普适性与适应性。
 </div>
 </div>
 
@@ -96,7 +96,7 @@ redirect_from:
 # 📖 教育背景
 - *2023.09 - 2026.06*，北京师范大学 艺术设计 硕士（GPA3.7/4 年级排名第一）
 - *2020.09 - 至今*，云南大学 法学 学士
-- *2017.09 - 2021.06*，昆明学院 学前教育 学士、
+- *2017.09 - 2021.06*，昆明学院 学前教育 学士
 
 
 # 🎖 荣誉
@@ -108,16 +108,16 @@ redirect_from:
 # 📝 学术成果
 
 #### 论文
-- 王楠楠, 方一羽, 谢瑞麟. 智能辅助设计：将机器学习方法论引入思辨性设计的通识课程[C]. 未来设计学术论坛. 2022
-- 方一羽, 徐腾飞, 基于C-STEAM理念的教学实践探究——以珠海市金凤小学为例. 美术观察（在审）
-- Shiyu Liu, Kin Wai Michael Siu, Qi Zhao, Yuanxin Guo, Yiyu Fang Preparing Educators for an Emerging Future: A Case Study on Life Design Training for Pre-service Teachers in China. Journal of Teacher Education（在审）
-- 方一羽, 袁莉, 孙梦 生成式AI+教育：潜力与挑战研讨会综述 电化教育研究（在投）
+- 王楠楠, **方一羽**, 谢瑞麟. 智能辅助设计：将机器学习方法论引入思辨性设计的通识课程[C]. 未来设计学术论坛. 2022
+- **方一羽**, 徐腾飞, 基于C-STEAM理念的教学实践探究——以珠海市金凤小学为例. 美术观察（在审）
+- Shiyu Liu, Kin Wai Michael Siu, Qi Zhao, Yuanxin Guo, **Yiyu Fang**. Preparing Educators for an Emerging Future: A Case Study on Life Design Training for Pre-service Teachers in China. Journal of Teacher Education（在审）
+- **方一羽**, 袁莉, 孙梦 生成式AI+教育：潜力与挑战研讨会综述 电化教育研究（在投）
 
 #### 学术海报
-- 方一羽, 赵紫宏, 黄雯雯, 付红昕. Searching for Patterns in the For bidden City —AIGC interactive exploration experience based on the window lattice of the Forbidden City[C]. The first Global Alliance of Educational Leaders and Department Heads. 2024.
+- **方一羽**, 赵紫宏, 黄雯雯, 付红昕. Searching for Patterns in the For bidden City —AIGC interactive exploration experience based on the window lattice of the Forbidden City[C]. The first Global Alliance of Educational Leaders and Department Heads. 2024.
 
 #### 专著
-- 徐腾飞. 方一羽, 林菡, 卢言欢, 安瑷雯. 王莹 中外美术简史.清华大学出版社 2025（三校）
+- 徐腾飞. **方一羽**, 林菡, 卢言欢, 安瑷雯. 王莹 中外美术简史.清华大学出版社 2025（三校）
 
 #### 专利
 - 酒瓶外包装 [P]:ZL 2022 3 0128097.X. 外观设计专利
