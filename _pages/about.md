@@ -55,10 +55,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## 故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地
+## [故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地](https://mp.weixin.qq.com/s/h-LRsmPlTF7vnUE6z8mVEA)
 
 - 用户研究与产品定义（读物阶段）：通过在北京、珠海等地组织12场深度访谈与焦点小组，收集200+份小学美术课案例，精准洞察儿童对互动性、视觉探索的强烈偏好。据此创建用户画像与旅程图，指导产品方向。
   - 产品决策：研究发现儿童在互动性、视觉探索及与自然关联上有更强偏好性，成功说服团队将植物、动物纹样优先设立为读物核心亮点，并参与设计了专属IP动物形象以提升亲和力。
