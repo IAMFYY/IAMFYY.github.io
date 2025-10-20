@@ -55,7 +55,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">内容编辑与课程开发（2023.10-2024.6）</div><img src='../images/故宫.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 故宫学校出版社 故宫文化教育产品 少儿读物到美育课程设计与落地
@@ -70,7 +70,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">科研助理（2024.3-至今）</div><img src='../images/北师大2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">科研助理（2024.3-至今）</div><img src='../images/北师大2(ccie).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 北京师范大学智能互联教育研究中心 关于生成式人工智能促进教师专业发展的研究
