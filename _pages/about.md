@@ -27,7 +27,7 @@ redirect_from:
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 2024-2025学年 总成绩年级第一名. 
 
-# 💻 Internships
+# 💻 实习经历
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">实习生（2025.5-7）</div><img src='../images/清华.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,15 +92,36 @@ redirect_from:
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 教育背景
+- *2023.09 - 2026.06*，北京师范大学 艺术设计 硕士（GPA3.7/4 年级排名第一）
+- *2020.09 - 至今*，云南大学 法学 学士
+- *2017.09 - 2021.06*，昆明学院 学前教育 学士、
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🎖 荣誉
+- *2025.10* 北京师范大学研究生学业一等奖学金 
+- *2024.10* 北京师范大学研究生学业二等奖学金
+- *2021.06* 本科优秀毕业论文
+
+
+# 📝 学术成果
+
+#### 论文
+- 王楠楠, 方一羽, 谢瑞麟. 智能辅助设计：将机器学习方法论引入思辨性设计的通识课程[C]. 未来设计学术论坛. 2022
+- 方一羽, 徐腾飞, 基于C-STEAM理念的教学实践探究——以珠海市金凤小学为例. 美术观察（在审）
+- Shiyu Liu, Kin Wai Michael Siu, Qi Zhao, Yuanxin Guo, Yiyu Fang Preparing Educators for an Emerging Future: A Case Study on Life Design Training for Pre-service Teachers in China. Journal of Teacher Education（在审）
+- 方一羽, 袁莉, 孙梦 生成式AI+教育：潜力与挑战研讨会综述 电化教育研究（在投）
+
+#### 学术海报
+- 方一羽, 赵紫宏, 黄雯雯, 付红昕. Searching for Patterns in the For bidden City —AIGC interactive exploration experience based on the window lattice of the Forbidden City[C]. The first Global Alliance of Educational Leaders and Department Heads. 2024.
+
+#### 专著
+- 徐腾飞. 方一羽, 林菡, 卢言欢, 安瑷雯. 王莹 中外美术简史.清华大学出版社 2025（三校）
+
+#### 专利
+- 酒瓶外包装 [P]:ZL 2022 3 0128097.X. 外观设计专利
+- 一种家庭远程视频对话装置 [P]:2023203843263；实用新型专利
+- 一种组合式蒸汽咖啡机多用桌 [P]:2022230192496. 实用新型专利
+- 加湿器 [P]:CN 201028724Y. 实用新型专利
 
