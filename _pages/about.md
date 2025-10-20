@@ -42,7 +42,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">实习生（2024.11-2025.6）</div><img src='../images/北师大1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">实习生（2024.11-2025.6）</div><img src='../images/北师大1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## 北师大艺术与科技实验室 你深知我的历程：运用大语言模型赋能自我关怀写作干预中的个性化理解与共情
